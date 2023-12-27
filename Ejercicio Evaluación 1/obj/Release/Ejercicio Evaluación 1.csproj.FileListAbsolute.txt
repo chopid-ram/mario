@@ -1,0 +1,10 @@
+D:\Progresa\Primero\Projects\CalculadoraEvaluación\Ejercicio Evaluación 1\bin\Release\Ejercicio Evaluación 1.exe.config
+D:\Progresa\Primero\Projects\CalculadoraEvaluación\Ejercicio Evaluación 1\bin\Release\Ejercicio Evaluación 1.exe
+D:\Progresa\Primero\Projects\CalculadoraEvaluación\Ejercicio Evaluación 1\bin\Release\Ejercicio Evaluación 1.pdb
+D:\Progresa\Primero\Projects\CalculadoraEvaluación\Ejercicio Evaluación 1\obj\Release\Ejercicio Evaluación 1.csprojAssemblyReference.cache
+D:\Progresa\Primero\Projects\CalculadoraEvaluación\Ejercicio Evaluación 1\obj\Release\Ejercicio_Evaluación_1.Form1.resources
+D:\Progresa\Primero\Projects\CalculadoraEvaluación\Ejercicio Evaluación 1\obj\Release\Ejercicio_Evaluación_1.Properties.Resources.resources
+D:\Progresa\Primero\Projects\CalculadoraEvaluación\Ejercicio Evaluación 1\obj\Release\Ejercicio Evaluación 1.csproj.GenerateResource.cache
+D:\Progresa\Primero\Projects\CalculadoraEvaluación\Ejercicio Evaluación 1\obj\Release\Ejercicio Evaluación 1.csproj.CoreCompileInputs.cache
+D:\Progresa\Primero\Projects\CalculadoraEvaluación\Ejercicio Evaluación 1\obj\Release\Ejercicio Evaluación 1.exe
+D:\Progresa\Primero\Projects\CalculadoraEvaluación\Ejercicio Evaluación 1\obj\Release\Ejercicio Evaluación 1.pdb

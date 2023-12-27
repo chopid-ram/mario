@@ -1,0 +1,9 @@
+D:\Progresa\Primero\Projects\CalculadoraEvaluación\Calculadora\bin\Debug\Calculadora.exe.config
+D:\Progresa\Primero\Projects\CalculadoraEvaluación\Calculadora\bin\Debug\Calculadora.exe
+D:\Progresa\Primero\Projects\CalculadoraEvaluación\Calculadora\bin\Debug\Calculadora.pdb
+D:\Progresa\Primero\Projects\CalculadoraEvaluación\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+D:\Progresa\Primero\Projects\CalculadoraEvaluación\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+D:\Progresa\Primero\Projects\CalculadoraEvaluación\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+D:\Progresa\Primero\Projects\CalculadoraEvaluación\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+D:\Progresa\Primero\Projects\CalculadoraEvaluación\Calculadora\obj\Debug\Calculadora.exe
+D:\Progresa\Primero\Projects\CalculadoraEvaluación\Calculadora\obj\Debug\Calculadora.pdb
